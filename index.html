@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tic-Tac-Toe</title>
+  <style>
+    #board {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+    .cell {
+      background-color: #f0f0f0;
+      padding: 20px;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Tic-Tac-Toe</h1>
+  <div id="board">
+    <button class="cell" onclick="playGame(0)"></button>
+    <button class="cell" onclick="playGame(1)"></button>
+    <button class="cell" onclick="playGame(2)"></button>
+    <button class="cell" onclick="playGame(3)"></button>
+    <button
