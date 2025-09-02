@@ -61,7 +61,7 @@ router.get('/', async (req, res) => {
 				   let LUCKY_MD_XFORCE_TEXT = `
 *⁠■■■■■■■■■■■■■■■*
 
-*CONGRATULATIONS 👏 SIR BRAVIN MULTI DEVICE 🗡️ IS CONNECTED TO YOUR WHATSAPP🤞*
+*CONGRATULATIONS 👏 bugfixed sulexh tech MULTI DEVICE 🗡️ IS CONNECTED TO YOUR WHATSAPP🤞*
 
 *■■■■■■■■■■■■■■■*
 _📢 FOR UPDATE AND HELPING FOLLOW CHANNEL 🌎 OR VISIT WEBSITE 🌐_ 
